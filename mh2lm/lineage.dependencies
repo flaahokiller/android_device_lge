@@ -1,6 +1,6 @@
 [
   {
-    "repository": "1_android_device_lge",
+    "repository": "android_device_lge",
     "target_path": "device/lge/mh2-common"
   }
 ]
