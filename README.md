@@ -1,11 +1,11 @@
-# Vendor_lge_mh21m
-Vendor tree 
+# android_device_lge
+Device tree tree 
 Copyright (C) 2018 The LineageOS Project
 
 Vendor configuration for LMG850 (lg g8x)
 =========================================
 
-The LMG850 (lg g8x) (codenamed _"mh21m"_) is a high-end smartphone from Lg.
+The LMG850 (lg g8x) (codenamed _"mh2lm"_) is a high-end smartphone from Lg.
 
 It was announced in August 2019. Release date was September 2019.
 
