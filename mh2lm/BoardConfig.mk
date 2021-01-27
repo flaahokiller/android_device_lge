@@ -17,7 +17,7 @@
 DEVICE_PATH := device/lge/mh2lm
 
 # inherit from common v50
--include device/lge/mh2lm-common/BoardConfigCommon.mk
+-include device/lge/mh2-common/BoardConfigCommon.mk
 
 # Kernel
 BOARD_KERNEL_CMDLINE += androidboot.hardware=mh2lm
@@ -30,4 +30,4 @@ TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.mh2lm
 VENDOR_SECURITY_PATCH := 2020-09-01
 
 # inherit from the proprietary version
--include vendor/lge/flashlmdd/BoardConfigVendor.mk
+-include vendor/lge/mh2lm/BoardConfigVendor.mk
