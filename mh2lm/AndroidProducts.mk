@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_mh2lm.mk
+    $(LOCAL_DIR)/hycon_mh2lm.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mh2lm-userdebug \
-    lineage_mh2lm-eng
+    hycon_mh2lm-userdebug \
+    _mh2lm-eng
